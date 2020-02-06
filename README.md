@@ -1,0 +1,2 @@
+# ajmresidences
+GitHub Pages
